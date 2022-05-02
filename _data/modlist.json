@@ -243,7 +243,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.0.4"
+    "version": "6.2.0.5"
   },
   {
     "author": "Haecriver",
@@ -387,7 +387,7 @@
     "author": "Sk",
     "name": "Weapon Mastery",
     "steamId": "2766683678",
-    "version": "2.0.4"
+    "version": "2.0.8"
   },
   {
     "author": "Smash Phil",
@@ -616,5 +616,11 @@
     "name": "Traits Expanded!",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.3.1"
   }
 ]
