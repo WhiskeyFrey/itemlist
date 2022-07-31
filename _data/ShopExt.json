@@ -4382,8 +4382,8 @@
       "name": "indestructable",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 50000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -4706,8 +4706,8 @@
       "name": "god-like",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 50000,
+      "removePrice": 1,
       "degree": 0
     },
     {
