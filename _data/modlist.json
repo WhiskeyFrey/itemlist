@@ -3,7 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.3.0.0"
+    "version": "1.4.0.0"
   },
   {
     "author": "Samboy063",
@@ -81,7 +81,7 @@
     "author": "The White Crayon (Updated for 1.1 by Ogliss)",
     "name": "Quarry",
     "steamId": "2007576583",
-    "version": "1.0.0.0"
+    "version": "2.0.0"
   },
   {
     "author": "Oskar Potocki,  dninemfive and  Kikohi",
@@ -117,7 +117,7 @@
     "author": "Jaxe",
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
-    "version": "2.0.0.0"
+    "version": "2.4.0.0"
   },
   {
     "author": "Captain Muscles (Nathan Harbour)",
@@ -249,7 +249,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.0.5"
+    "version": "6.2.0.7"
   },
   {
     "author": "Haecriver",
@@ -477,7 +477,7 @@
     "author": "Dylan",
     "name": "Children, school and learning",
     "steamId": "1541438230",
-    "version": "1.7.3.2"
+    "version": "1.7.4.0"
   },
   {
     "author": "Capi",
@@ -513,7 +513,7 @@
     "author": "Thirite,  Cheran,  Jarry1250,  lellel,  Kori,  Zach and  cometopapa",
     "name": "Babies and Children [1.3]",
     "steamId": "2559574784",
-    "version": "1.0.8162.34412"
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki,  xrushha,  legodude17 and  ISOREX",
@@ -705,7 +705,7 @@
     "author": "Oblitus",
     "name": "Animals Logic",
     "steamId": "1098354593",
-    "version": "1.0.8084.14260"
+    "version": "1.0.8216.42657"
   },
   {
     "author": "Kiame Vivacity",
@@ -849,7 +849,7 @@
     "author": "m00nl1ght-dev",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "0.0.0.0"
+    "version": "1.9.9.0"
   },
   {
     "author": "S16",
@@ -904,5 +904,29 @@
     "name": "Extended Storage (Continued)",
     "steamId": "2566120724",
     "version": "1.3.2"
+  },
+  {
+    "author": "Rick",
+    "name": "Stargate SG-Rim: Tau'ri Armory",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "Stargate SG-Rim: Goa'uld Armory",
+    "steamId": "2838143591",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Rick",
+    "name": "Stargate RimLantis: Pegasus Expidition Armory",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CatCraftYT",
+    "name": "Stargates!",
+    "steamId": null,
+    "version": null
   }
 ]
